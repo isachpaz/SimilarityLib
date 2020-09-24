@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SimilarityLib</id>
+    <version>1.0.0</version>
+    <title>SimilarityLib</title>
+    <authors>Ilias Sachpazidis</authors>
+    <owners>Radiation Oncology Department, Medical Center Universiry of Freiburg</owners>
+    <projectUrl>https://github.com/isachpaz/SimilarityLib</projectUrl>
+    <license type="file">LICENSE.txt</license>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>SimilarityLib</description>
+    <releaseNotes>
+
+        SimilarityLib 1.0.0:
+        - Similarity index of two strings
+        
+
+    </releaseNotes>
+    <copyright>Copyright 2020-2020 (c) Radiation Oncology Department, Medical Center Universiry of Freiburg, Germany</copyright>
+    <tags>Comparing strings, Similarity index, strings</tags>
+
+  </metadata>
+ <files>
+        <file src="SimilarityLib\SimilarityLib\bin\Release\*.dll" target="lib\net461"/>
+        <file src="LICENSE.txt" />
+    </files>
+
+</package>
